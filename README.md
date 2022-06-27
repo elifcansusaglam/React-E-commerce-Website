@@ -1,14 +1,14 @@
 # E-commerce Website
 
-## Dante Cups
+# Dante Cups
 
 Dante cups is an e-commerce site where products can be added or removed dynamically, where the user can easily access all product information, and where they can easily filter while searching for products. It is also a secure website where the user cannot shop without logging in. In addition, it is a website where all login and logout information of the user and the information of all users who subscribe to the e-bulletin are stored.
 
-#### Login page
+## Login page
 
 ![Login Page](LoginPage.png)
 
-#### Home Page
+## Home Page
 
 ![Home Page](HomePage1.png)
 
@@ -19,25 +19,25 @@ Dante cups is an e-commerce site where products can be added or removed dynamica
 ![Home Page](HomePage3.png)
 
 
-#### About Page
+## About Page
 
 
 ![About Page](About.png)
 
 
-#### Products Page
+## Products Page
 
 
 ![Products Page](ProductsPage.png)
 
 
-#### Cart
+## Cart
 
 
 ![Cart](Cart.png)
 
 
-#### Check the Website
+## Check the Website
 
 [Dante Cups](https://dantecups.netlify.app)
 
